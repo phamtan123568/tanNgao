@@ -1,0 +1,96 @@
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\tanpvph03458_gd2.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\tanpvph03458_gd2.pdb
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.Core.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\EntityFramework.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\System.Web.Providers.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\EntityFramework.xml
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.Core.xml
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.csprojResolveAssemblyReference.cache
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.dll
+C:\Users\fpoly\Desktop\tanpvph03458_gd2\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.pdb
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\tanpvph03458_gd2.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\tanpvph03458_gd2.pdb
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.Core.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\EntityFramework.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\System.Web.Providers.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\EntityFramework.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.Core.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.csprojResolveAssemblyReference.cache
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.pdb
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\tanpvph03458_gd2.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\tanpvph03458_gd2.pdb
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.Core.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\EntityFramework.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\System.Web.Providers.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\EntityFramework.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.Core.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.csprojResolveAssemblyReference.cache
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.dll
+C:\Users\fpoly\Downloads\tanpvph03458_gd2(1)\tanpvph03458_gd2\tanpvph03458_gd2\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.pdb
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\tanpvph03458_gd2.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\tanpvph03458_gd2.pdb
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.Core.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\EntityFramework.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\System.Web.Providers.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\EntityFramework.xml
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.Core.xml
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.csprojResolveAssemblyReference.cache
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.dll
+C:\Users\Tan Pham\Desktop\INF205_Nhom6_lochvph02869(2)\INF205_Nhom6_lochvph02869\INF205_Nhom6_lochvph02869\tanpvph03458_gd2\obj\Debug\tanpvph03458_gd2.pdb
